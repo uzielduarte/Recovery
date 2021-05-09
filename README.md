@@ -1,2 +1,2 @@
 # Recovey
-Recreacion de los proyectos del parcial
+Recreacion de los proyectos del primer parcial
